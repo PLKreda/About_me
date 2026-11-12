@@ -1,5 +1,7 @@
 # About me lmao
 
+> [!CAUTION]
+> This user is severly stupid
 
 ## 🟩 Hello, I'm Kreda. Very mentally ill teen whose passion is programming. Here I'd like to post my projects and random **bullshit**. Im still learning how to program in those described languages below :3 🟩
 
